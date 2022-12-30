@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mozzart Test</string>
+    <string name="http_err">Something went wrong, please check internet connection or try again later</string>
+</resources>

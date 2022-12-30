@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+
+    android:background="@color/white"
+    android:id="@+id/results_adapter_root">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Vreme izvlacenja 13:10. 10:50 | Kolo: 83222"
+        android:background="@color/purple_500"
+        android:textColor="@color/white"
+        android:id="@+id/result_time_info"
+        android:textSize="16sp">
+
+    </TextView>
+
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>
